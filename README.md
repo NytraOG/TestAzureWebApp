@@ -1,1 +1,1 @@
-# TestAzureWebApp
+[![Build Status](https://dev.azure.com/chnytra13/TestWebApp/_apis/build/status/NytraOG.TestAzureWebApp?branchName=master)](https://dev.azure.com/chnytra13/TestWebApp/_build/latest?definitionId=1&branchName=master)
